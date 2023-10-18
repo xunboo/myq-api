@@ -44,7 +44,7 @@
     "debug": "^4.1.1"
   },
   "devDependencies": {
-    "@stryker-mutator/core": "^3.3.1",
+    "@stryker-mutator/core": "^7.3.0",
     "@stryker-mutator/javascript-mutator": "^3.3.1",
     "@stryker-mutator/jest-runner": "^3.3.1",
     "axios-mock-adapter": "^1.18.2",
